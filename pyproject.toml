@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "aioredisorm"
-version = "0.1.0"
+version = "0.1.2"
 description = "A Python class for interacting with Redis using asyncio and aioredis."
 authors = ["fadedreams7 <fadedreams7@gmail.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
@@ -24,5 +25,5 @@ classifiers = [
 ]
 
 [tool.poetry.urls]
-repository = "https://github.com/your-username/aioredisorm"
+repository = "https://github.com/fadedreams/aioredisorm"
 
